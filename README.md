@@ -17,13 +17,13 @@
 
 - 🌱 I am currently studying Computer Science, Electronics, and Communication at the University of Panama.
 
-- 💻 My goal is to specialize as a backend developer.
+- :neckbeard: My goal is to specialize as a backend developer.
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Tech Stack</h3>
 <p align="left"></a> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
