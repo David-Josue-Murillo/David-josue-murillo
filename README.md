@@ -88,7 +88,6 @@
 
 <br>
 <br>
-<br>
 
 # Version Controll & Tools 🧰
 <a href="https://git-scm.com/" target="_blank">
