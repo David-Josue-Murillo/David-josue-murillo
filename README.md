@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
   </a>
-  <a target="_blank">
+  <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   </a>
   <a href="https://spring.io/" target="_blank"> 
@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
 </a>
-<a target="_blank">    
+<a href="#" target="_blank">    
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
 <a href="https://www.sqlite.org/" target="_blank"> 
@@ -82,7 +82,7 @@
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
 </a>
-<a target="_blank">
+<a href="#" target="_blank">
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 </a>
 <a href="https://git-scm.com/" target="_blank">
