@@ -12,9 +12,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I am currently studying Computer Science, Electronics, and Communication at the University of Panama
+- 🌱 I am currently studying Computer Science, Electronics, and Communication at the University of Panama.
 
-- 💻 My goal is to specialize as a backend developer
+- 💻 My goal is to specialize as a backend developer.
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
