@@ -8,6 +8,7 @@
 <a href="https://x.com/devdDavid507">![Twitter: devDavid507](https://img.shields.io/twitter/follow/halmyradov?style=social)</a>
 <a href="https://dev.to/david_murillo_08304ea0519" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://github.com/David-Josue-Murillo">![GitHub: David-Josue-Murillo](https://img.shields.io/github/followers/berkeli?label=follow&style=social)</a>
+<a href="mailto:davidjosuemurillo23@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 <br>
 
