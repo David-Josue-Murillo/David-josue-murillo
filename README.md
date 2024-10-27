@@ -3,14 +3,12 @@
 
 <br>
 
-<div align="center">
-    <a href="https://linkedin.com/in/david-murillo-471a132a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/davidm_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://x.com/devdDavid507">![Twitter: devDavid507](https://img.shields.io/twitter/follow/halmyradov?style=social)</a>
-    <a href="https://dev.to/david_murillo_08304ea0519" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-    <a href="https://github.com/David-Josue-Murillo">![GitHub: David-Josue-Murillo](https://img.shields.io/github/followers/berkeli?label=follow&style=social)</a>
-    <a href="mailto:davidjosuemurillo23@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</div>
+<a href="https://linkedin.com/in/david-murillo-471a132a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/davidm_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://x.com/devdDavid507">![Twitter: devDavid507](https://img.shields.io/twitter/follow/halmyradov?style=social)</a>
+<a href="https://dev.to/david_murillo_08304ea0519" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://github.com/David-Josue-Murillo">![GitHub: David-Josue-Murillo](https://img.shields.io/github/followers/berkeli?label=follow&style=social)</a>
+<a href="mailto:davidjosuemurillo23@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 <br>
 
